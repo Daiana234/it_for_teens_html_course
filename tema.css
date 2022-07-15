@@ -1,0 +1,21 @@
+/* color */
+p {
+    color: blue;
+}
+/* text-align */
+.centerAligned {
+    text-align: center;
+}
+/* font-size */
+html {
+    font-size: 10px;
+   }
+   /* fixed */
+div.fixed {
+    position: fixed;
+    top: 0;
+    left: 5px;
+    width: 300px;
+    background-color : #7CA049;
+   }
+  
